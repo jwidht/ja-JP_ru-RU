@@ -24,13 +24,13 @@ quiz.properties|name=A1-Урок 8(Lesson 8)~~q_lang=ja-JP~~a_lang=ru-RU~~fontsi
 した~~[shita]|под, внизу
 ごめんください~~[gomen kudasai]|извините
 ここ~~[koko]|здесь
-げんかん~~[genkan]|прохожая
+げんかん~~[genkan]|прихожая
 きます~~[kimasu]|приходить
 カップ~~[kappu]|кружка
 かたづけましょう~~[katazukemashou]|давайте приберемся
 かいわ~~[kaiwa]|диалог
 おふろ~~[o-furo]|ванная
-おたがい~~[atatakai]|взаимный
+おたがい~~[ota gai]|взаимный
 おじゃまします~~[ojama shimasu]|здравствуйте (когда заходите к кому-нибудь)
 おきゃくさん~~[o-kyakusan]|гость, клиент
 おおきい~~[ookii]~~[大きい]|большой
